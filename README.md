@@ -153,7 +153,7 @@ where ``[model_path]`` is the path for the trained JMRL-enhanced model and ``[be
 Please consider citing the following paper if you find our codes helpful. Thank you!
 
 ```
-@inproceedings{QiWDC22,
+@inproceedings{QiDW24,
   author    = {Kunxun Qi and Jianfeng Du and Hai Wan },
   title     = {End-to-end Learning of Logical Rules for Document-level Relation Extraction},
   booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational
