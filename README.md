@@ -158,6 +158,7 @@ Please consider citing the following paper if you find our codes helpful. Thank 
   title     = {End-to-end Learning of Logical Rules for Document-level Relation Extraction},
   booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational
                Linguistics},
+  pages     = {7247--7263},
   year      = {2024}
 }
 ```
