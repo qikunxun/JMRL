@@ -1,4 +1,4 @@
-## Code and data for the paper "End-to-end Learning of Logical Rules for Document-level Relation Extraction"
+## Code and data for the paper "End-to-end Learning of Logical Rules for Enhancing Document-level Relation Extraction"
 
 ### Prerequisites
 
@@ -155,7 +155,7 @@ Please consider citing the following paper if you find our codes helpful. Thank 
 ```
 @inproceedings{QiDW24,
   author    = {Kunxun Qi and Jianfeng Du and Hai Wan },
-  title     = {End-to-end Learning of Logical Rules for Document-level Relation Extraction},
+  title     = {End-to-end Learning of Logical Rules for Enhancing Document-level Relation Extraction},
   booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational
                Linguistics},
   pages     = {7247--7263},
