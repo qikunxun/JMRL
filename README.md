@@ -8,7 +8,7 @@
 More prerequisites can be found in the original repositories.
 
 ### Datasets
-We use seven datasets in our experiments.
+We use four datasets in our experiments.
 
 | Datasets           | Download Links (original)                |
 |--------------------|------------------------------------------|
