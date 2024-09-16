@@ -32,6 +32,8 @@ We use five models in our experiments.
 
 ### JMRL-LSTM
 
+Data of word and char embeddings for the DWIE dataset can be downloaded in [Google drive](https://drive.google.com/file/d/1GSXXq-wVXuQv-GVh0IoJdbqRhzwdeYfZ/view)
+
 Path for code: ``./JMRL-LSTM-BiLSTM``
 
 The script for training on the DWIE dataset is:
