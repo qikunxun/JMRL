@@ -138,6 +138,7 @@ bash scripts/isf_roberta.sh ${name} ${model_dir} test
 where ``${model_dir}`` is the directory that contains the checkpoint we are going to evaluate. 
 
 ### Running script on DocGNRE
+Path for code: ./DocGNRE
 ```
 bash scripts/run_roberta_gpt.sh ${name} ${lambda} ${seed}
 ```
